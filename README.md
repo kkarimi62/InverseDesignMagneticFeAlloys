@@ -30,14 +30,9 @@ This repository presents a machine learning-based approach for the multi-objecti
 1. Clone this repository:
     ```bash
     git clone git@github.com:kkarimi62/InverseDesignMagneticFeAlloys.git
-    cd polyGNN
+    cd InverseDesignMagneticFeAlloys
     ```
 
 ## Usage
-
-1. **Prepare Data:**
-   - Ensure you have EBSD maps and nanoindentation data in the correct format.
-   - Place your data files in the `data/` directory.
-
-2. **Train the Model:**
+**Train the Model:**
    - Execute Jupyter notebook `MachineLearningAssignment_kkarimi.ipynb`
