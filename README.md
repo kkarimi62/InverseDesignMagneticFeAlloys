@@ -11,6 +11,14 @@ This repository presents a machine learning-based approach for the multi-objecti
 - **Uncertainty Quantification:** Utilized Bayesian strategies to analyze the posterior distribution of key variables, such as Fe composition, and assess their impact on property uncertainty.
 - **Constrained Optimization:** Applied refined optimization techniques with constraints, incorporating the Pareto front to guide trade-offs and balance multiple design goals.
 
+## Key Findings:
+
+- **Optimization Results:** Excluding the Tx constraint, Pareto front analysis indicates a trade-off between maximizing Bs and Tc. When the constraint is applied, it may be possible to optimize both properties simultaneously.
+- **Uncertainty Quantification:** Bayesian analysis underscores the influence of fluctuations in Fe composition on the uncertainty of Bs, demonstrating the necessity of precise composition control to reduce variance.
+- **Data Limitations:** The current dataset lacks the depth needed to fully capture the complex interplay between composition and processing conditions, highlighting the need for more comprehensive data to develop robust alloy designs.
+- **Model Refinement:** Further fine-tuning of machine learning models during the optimization process is expected to enhance prediction accuracy.
+- **Real-World Validation:** Future work should incorporate experimental validation of the predicted alloy compositions to evaluate the practical effectiveness of the models in real-world applications.
+
 ## Requirements
 
 - Python 3.x
