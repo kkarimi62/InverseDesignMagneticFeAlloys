@@ -23,7 +23,6 @@ This repository presents a machine learning-based approach for the multi-objecti
 
 - Python 3.x
 - TensorFlow
-- DeepMind’s GNN library
 - Other Python packages (see `gnnPolyCryst.ipynb`)
 
 ## Installation
