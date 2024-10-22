@@ -29,7 +29,7 @@ This repository presents a machine learning-based approach for the multi-objecti
 
 1. Clone this repository:
     ```bash
-    git clone git@github.com:kkarimi62/polyGNN.git
+    git clone git@github.com:kkarimi62/InverseDesignMagneticFeAlloys.git
     cd polyGNN
     ```
 
@@ -40,4 +40,4 @@ This repository presents a machine learning-based approach for the multi-objecti
    - Place your data files in the `data/` directory.
 
 2. **Train the Model:**
-   - Execute Jupyter notebook `gnnPolyCryst.ipynb`
+   - Execute Jupyter notebook `MachineLearningAssignment_kkarimi.ipynb`
