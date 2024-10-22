@@ -1,7 +1,7 @@
 # Soft Magnetic Alloys: Machine Learning-Based Multi-Objective Optimization and Uncertainty Quantification
 This repository presents a machine learning-based approach for the multi-objective optimization, prediction, and uncertainty quantification of soft magnetic alloys. The study focuses on the composition and processing parameters of these alloys, applying various machine learning models and optimization techniques to predict and enhance the magnetic properties of interest.
 
-<img src="workFlow.jpg" width="800"/>
+<img src="workflow.png" width="800"/>
 
 ## Key Features
 
