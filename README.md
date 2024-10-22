@@ -7,7 +7,9 @@ This repository presents a machine learning-based approach for the multi-objecti
 
 - **Data Utilization:** Analysis of elemental compositions and processing parameters to predict properties like Magnetic Saturation (Bs) and Curie Temperature (Tc).
 - **Machine Learning Models:** Applied Ridge Regression, Support Vector Machines (SVM), CatBoost, Gaussian Process Regression (GPR), K-Nearest Neighbors (KNN), and Dense Neural Networks to predict the material properties.
-- **Prediction Results:** Model performance is evaluated using metrics such as the Root Mean Square Error (RMSE) to ensure the accuracy of property predictions.
+- **Bayesian Optimization:** Implemented inverse design and property maximization strategies using a Bayesian approach to refine alloy compositions.
+- **Uncertainty Quantification:** Utilized Bayesian strategies to analyze the posterior distribution of key variables, such as Fe composition, and assess their impact on property uncertainty.
+- **Constrained Optimization:** Applied refined optimization techniques with constraints, incorporating the Pareto front to guide trade-offs and balance multiple design goals.
 
 ## Requirements
 
