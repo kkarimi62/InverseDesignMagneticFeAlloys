@@ -3,15 +3,11 @@ This repository presents a machine learning-based approach for the multi-objecti
 
 <img src="workFlow.jpg" width="800"/>
 
-## Overview
-
-Nanoscale hardness in polycrystalline steels is influenced by microstructural features such as grain orientations and neighboring grain properties. This project uses GNNs to predict nanohardness from electron backscatter diffraction (EBSD) maps of 310S steel surfaces, focusing on grain-scale load-displacement curves.
-
 ## Key Features
 
-- **Graph Neural Network Model:** Trained on grain centers as graph nodes to predict nanohardness based on microstructural descriptors.
-- **Microstructural Descriptors:** Includes grain size, shape factors, and neighboring grain properties.
-- **Nanoindentation Data:** Load-displacement curves used for training the model.
+- **Data Utilization:** Analysis of elemental compositions and processing parameters to predict properties like Magnetic Saturation (Bs) and Curie Temperature (Tc).
+- **Machine Learning Models:** Applied Ridge Regression, Support Vector Machines (SVM), CatBoost, Gaussian Process Regression (GPR), K-Nearest Neighbors (KNN), and Dense Neural Networks to predict the material properties.
+- **Prediction Results:** Model performance is evaluated using metrics such as the Root Mean Square Error (RMSE) to ensure the accuracy of property predictions.
 
 ## Requirements
 
