@@ -23,7 +23,7 @@ This repository presents a machine learning-based approach for the multi-objecti
 
 - Python 3.x
 - TensorFlow
-- Other Python packages (see `gnnPolyCryst.ipynb`)
+- Other Python packages (see `MachineLearningAssignment_kkarimi.ipynb`)
 
 ## Installation
 
