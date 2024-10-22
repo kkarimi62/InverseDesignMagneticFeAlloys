@@ -1,6 +1,5 @@
-# Prediction of Fe alloys' magnetic properties using machine learning
-
-This repository contains code and resources for predicting nanoscale hardness in polycrystalline metals using Graph Neural Networks (GNNs). The methods and models presented here are based on the research paper titled **"Prediction of steel nanohardness by using graph neural networks on surface polycrystallinity maps"**, published in *Scripta Materialia* ([Karimi et al. Scripta Materialia, 234:115559, 2023](https://doi.org/10.1016/j.scriptamat.2023.115559)).
+# Soft Magnetic Alloys: Machine Learning-Based Multi-Objective Optimization and Uncertainty Quantification
+This repository presents a machine learning-based approach for the multi-objective optimization, prediction, and uncertainty quantification of soft magnetic alloys. The study focuses on the composition and processing parameters of these alloys, applying various machine learning models and optimization techniques to predict and enhance the magnetic properties of interest.
 
 <img src="workFlow.jpg" width="800"/>
 
